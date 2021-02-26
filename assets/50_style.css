@@ -1,0 +1,92 @@
+/* Small css customizations */
+
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@300;400&display=swap');
+
+#main-title {
+    margin-bottom: 0px;
+}
+
+#subtitle {
+    margin-top: 0px;
+}
+
+#header-description {
+    text-align: justify;
+    margin-bottom: 20px;
+}
+
+div#category-filter {
+    min-width: 210px;
+}
+
+#map-tabs {
+    margin-top: 10px;
+    margin-right: 10px;
+    margin-bottom: 0;
+    margin-left: 10px;
+}
+
+#map-container {
+    margin-top: 0;
+}
+
+.padded {
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.margin-t {
+    margin-top: 30px;
+}
+
+.margin-b {
+    margin-bottom: 30px;
+}
+
+.two.columns.tight {
+    width: 17.3333333333%;
+    margin-left: 0%;
+}
+
+.four.columns.tight {
+    width: 34.6666666667%;
+    margin-left: 0%;
+}
+
+.two.columns.item-column {
+    width: 15.3333333333%;
+    margin-left: 2%;
+    padding-left: 2%;
+    padding-right: 2%;
+}
+
+.center-content {
+    justify-content: center;
+    text-align: center;
+}
+
+.text-container {
+    max-width: 1000px;
+    text-align: justify;
+}
+
+.absolute {
+    position: absolute;
+}
+
+.item-column {
+    max-width: 400px;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-evenly;
+}
+
+.pretty_container {
+	background-color: #fff;
+}
+
+button, .button {
+    margin: 10px;
+}
+
+
